@@ -9,6 +9,6 @@ public:
                 nums1[idx] = nums2[j--];
             else
                 nums1[idx] = nums1[i--];
-        }
+        } 
     }
 };
