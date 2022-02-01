@@ -1,6 +1,4 @@
-/* 
-* https://www.acmicpc.net/problem/17626
-*/
+// https://www.acmicpc.net/problem/17626
 #include <iostream>
 #include <cmath>
 #include <climits>
